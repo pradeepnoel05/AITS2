@@ -1,43 +1,39 @@
-# ANNAMACARYA
-## INSTITUTE OF
+# ANNAMACHARYA
+## iNSTITUTE OF
 ### TECHNOLOGY &
 #### SCIENCES
 
-### (AUTONOMOUS)
+### ( AUTONOMUS )
 
 
 
 
-***AITS*** **is located in Rajampet (Kadapa) , karakambadi (Tirupati)**
+***AITS***  **is located in Rajampet (Kadpa) , Karkambadi (Tirupati)**
 ### Unordered List
 * Apple
-* pineapple
-*banana
-  *lemon
-  *mosambhi
-  
-  ### ordered List
-   1 brinjal
-   2 tomatoe
-   
-   i. Dumstick one
-   ii.Drumstick two
-   
-   
-  ### image 
-  ![Annamachara] (Https://anudiam.org/wp-content/uploads/2012/05/Annamcharya.jpg)
-  
-  
-  ### Links 
-  [Gitub] (http://github.com)
+* Pineaapple
+* banana
+  * lemon
+  * mosambhi
  
- ### quotes
- 
- life is not same for fis and fisherman
- 
- 
- **Literals**
- 
- 
-  
-  
+### Ordered List  
+1 Brinjal
+2 tomatoe
+
+  i. Drumstick one
+  ii. Drumstick two
+
+
+### Image
+![Annamacharya](https://anudinam.org/wp-content/uploads/2012/05/Annamacharya.jpg)
+
+
+### Links
+[Github](http://github.com)
+
+### Quotes
+
+life is not same for fish and fisherman
+
+
+**Literals**
